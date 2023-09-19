@@ -3,52 +3,7 @@ Elevate your SaaS business to new heights with Yetti Pages, a cutting-edge no-co
 Elevate your SaaS business to new heights with Yetti Pages, a cutting-edge no-code page builder that reimagines web development. Anchored by the cornerstone of deep customization, Yetti Pages empowers SaaS owners to provide users with the ability to create entirely unique web experiences that perfectly align with their brand identity and goals.
 
 <a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/2kv6xBk/Slide-16-9-15.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/wp61ttt/Slide-16-9-55.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/cNhzf6F/Slide-16-9-56.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/jJMWmfL/Slide-16-9-57.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/ZM3wkRg/Slide-16-9-58.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/dJKWg68/Slide-16-9-60.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/xfZgmgf/Slide-16-9-71.jpg">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/cXY4MRg/Slide-16-9-59.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/vvj8Xd9/Slide-16-9-53.jpg">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/x6c6C3t/Slide-16-9-9.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/9Z5L3vh/Slide-16-9-81.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/mTVRvwx/Slide-16-9-65.jpg">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/gSYw7WS/Slide-16-9-77.png">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/VwZW4qC/Slide-16-9-54.jpg">
-</a>
-<a href="https://pages.withjeff.xyz/">
-  <img src="https://i.ibb.co/W3zkhXJ/Slide-16-9-74.jpg">
-</a>
-<a href="https://wa.me/+2348104199676">
-  <img src="https://images.jeffjola.com/Rio/RIO EXPORT 20.png">
+  <img src="https://i.ibb.co/5GjPgcm/25-Brand-illustration.png">
 </a>
 <h2>BEFORE YOU BUY | UPDATE</h2>
 <p>Before making your purchase decision, please take a moment to read this message, especially if you're upgrading from the previous version of our software.</p>
